@@ -3,16 +3,16 @@
   "course": "CS077",
   "name": "Kevin F",
   "work": {
-    "project": "A story worth playing",
-    "path": "story",
+    "project": "A game thats Fun",
+    "path": "arcade",
     "selected": [
       "save"
     ],
     "engine": "Unity / C#",
-    "gitEvidence": "Git was abledy to run",
-    "ai": "",
-    "aiVerify": "",
-    "notes": "",
+    "gitEvidence": "Git was abledy to run\nwhen i uplode my recovery key it was abledy to commit\nthe recovery key file opened",
+    "ai": "Claude",
+    "aiVerify": "runing tests and, looking at the code",
+    "notes": "The player",
     "plan": "",
     "availability": "",
     "service": "",
