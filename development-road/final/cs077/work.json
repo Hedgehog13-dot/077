@@ -31,6 +31,14 @@
     },
     "evidence": {},
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-16",
+        "worked": "We finished the first steps of the project and came to a conclusion about what we want to make it into. I've been able to use my networking skills, and I have been able to contact two separate artists who have agreed to help out with the illustration parts of the project.",
+        "next": "I will look back on the requirements and see what other media issues I can help out with, and I will try to get regular reports about the art from the artists",
+        "blocker": "",
+        "evidence": ""
+      }
+    ]
   }
 }
