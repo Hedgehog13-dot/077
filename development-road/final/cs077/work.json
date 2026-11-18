@@ -51,8 +51,8 @@
     },
     "evidence": {
       "core": {
-        "result": "The base game is working",
-        "test": "",
+        "result": "The base game is working but it needs more polishing",
+        "test": "all the base game mechanics are working",
         "link": "",
         "done": false
       }
