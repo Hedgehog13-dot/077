@@ -136,9 +136,9 @@
       }
     },
     "dailyDraft": {
-      "meeting": "CS077-2026-11-16",
-      "worked": "We finished the first steps of the project and came to a conclusion about what we want to make it into. I've been able to use my networking skills, and I have been able to contact two separate artists who have agreed to help out with the illustration parts of the project.",
-      "next": "I will look back on the requirements and see what other media issues I can help out with, and I will try to get regular reports about the art from the artists",
+      "meeting": "CS077-2026-11-18",
+      "worked": "We were able to get more detailed descriptions of the designs we were going to use for the character. We were able to come up with a consensus on what the environments are going to look like",
+      "next": "I will contact the artist I already talked to beforehand, and I will send them a document of all the details and information they would need for the art I'm asking them to create",
       "blocker": "",
       "evidence": ""
     },
@@ -294,6 +294,22 @@
         "blocker": "",
         "evidence": "",
         "tasks": []
+      },
+      {
+        "date": "2026-11-18",
+        "revision": 1,
+        "worked": "We were able to get more detailed descriptions of the designs we were going to use for the character. We were able to come up with a consensus on what the environments are going to look like",
+        "next": "I will contact the artist I already talked to beforehand, and I will send them a document of all the details and information they would need for the art I'm asking them to create",
+        "blocker": "",
+        "evidence": "",
+        "tasks": [
+          {
+            "title": "PR Media materials",
+            "due": "2026-12-18T23:59",
+            "done": false,
+            "result": ""
+          }
+        ]
       }
     ]
   },
